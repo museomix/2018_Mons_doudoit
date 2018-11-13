@@ -4,6 +4,12 @@ The idea was to have an interactive guide allowing people to experience the annu
 
 Created by the Team 'Teamporary' at the [Museomix event](http://museomix.be/) in Mons, Belgium (November 9-11, 2018).
 
+[Experience it yourself here!](https://museomix.github.io/2018_mons_doudoit/start)
+
+> (You'll need the following codes to unlock: `1349`, `2005` and `1970`)
+
+Or just go and [fight the DRAGON!](https://museomix.github.io/2018_mons_doudoit/challenge/2)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
 ## Development server
